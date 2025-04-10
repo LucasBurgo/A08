@@ -24,11 +24,7 @@ header img {
     padding-left: 30px;
     padding-right: 30px;
 }
-h1 {
-	border-top: 3px solid #431420;
-	border-bottom: 3px solid #431420;
-	padding: 10px;
-}
+
 header h2, header h3 {
     text-indent: 0;
 }
