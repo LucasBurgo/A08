@@ -5,7 +5,23 @@ body {
 	border: 3px solid #931420;
 	background-color: #fffded;
 }
-
+section h1 {
+	font-size: 150%;
+	padding: .5em 0 .25em 0;
+	margin: 0;               
+}
+section h2 {
+	color: #800000;
+	font-size: 130%;
+	padding: .5em 0 .25em 0;
+}
+section p {
+	padding-bottom: .5em;
+}
+section blockquote {
+	padding: 0 2em;
+	font-style: italic;
+}
 article {
 	padding: .5em 0;
 	border-top: 2px solid #800000;
