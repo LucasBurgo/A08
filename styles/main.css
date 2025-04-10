@@ -14,5 +14,9 @@ main {
   flex: 3;
 }
 blockquote {
-    font-style: italic;
+margin-left: 1.5rem;
+  font-style: italic;
+  color: #555;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
 }
