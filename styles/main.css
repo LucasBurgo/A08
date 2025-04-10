@@ -2,6 +2,8 @@
 main {
     padding-left: 30px;
     padding-right: 30px;
+    width: 65%;
+    text-align: right;
 }
 
 blockquote {
