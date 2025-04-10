@@ -1,11 +1,18 @@
 
 main {
-    padding-left: 30px;
-    padding-right: 30px;
-    width: 105%;
-    text-align: right;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  padding: 1rem;
+}
+.left-column {
+  flex: 1;
+  max-width: 220px;
 }
 
+.right-column {
+  flex: 3;
+}
 blockquote {
     font-style: italic;
 }
