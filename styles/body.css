@@ -23,7 +23,8 @@ section blockquote {
 	font-style: italic;
 }
 article {
-	padding: .5em 0;
+	padding-top: .5em 0;
+	padding-bottom: .25em 0;
 	border-top: 2px solid #800000;
 	border-bottom: 2px solid #800000;
 }
